@@ -6,6 +6,7 @@ The accessibility was implemented using the UAP Plugin found in the Unity Store 
 **Dissertation Title - Evaluation and Development of Accessibility Features Within Video Games.**
 
 **Project Aim**
+
 The project aimed to create a game that offers players equal access through the implementation of accessibility features.
 
 **Game Features**
